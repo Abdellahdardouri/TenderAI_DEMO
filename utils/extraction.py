@@ -13,7 +13,7 @@ from llama_index.core.node_parser import SentenceSplitter
 # Hardcoded API keys (for testing phase only)
 OPENAI_KEY = ""
 LLAMA_PARSE_API_KEY = ""
-DEFAULT_MODEL = "gpt-4o"
+DEFAULT_MODEL = ""
 
 # Set keys
 os.environ["OPENAI_API_KEY"] = OPENAI_KEY

@@ -6,7 +6,7 @@ from llama_index.core.query_engine import RetrieverQueryEngine
 
 # Hardcoded API key (for testing phase only)
 OPENAI_KEY = ""
-DEFAULT_MODEL = "gpt-4o"
+DEFAULT_MODEL = ""
 
 # Set keys
 os.environ["OPENAI_API_KEY"] = OPENAI_KEY
