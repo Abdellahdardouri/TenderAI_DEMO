@@ -11,8 +11,8 @@ from llama_index.core import VectorStoreIndex, Document
 from llama_index.core.node_parser import SentenceSplitter
 
 # Hardcoded API keys (for testing phase only)
-OPENAI_KEY = "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"
-LLAMA_PARSE_API_KEY = "llx-3WoEmFJuB5IiDlxPm5VX2o27n82gf9gIt9dz3NbQiFMq2zqa"
+OPENAI_KEY = ""
+LLAMA_PARSE_API_KEY = ""
 DEFAULT_MODEL = "gpt-4o"
 
 # Set keys

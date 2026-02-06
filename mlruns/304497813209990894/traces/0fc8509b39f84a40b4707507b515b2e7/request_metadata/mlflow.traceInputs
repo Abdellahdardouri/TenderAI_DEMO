@@ -1,1 +1,0 @@
-{"input": ["Quelle est la date de publication ou de lancement de l’appel d’offres ? Cherche une date explicite comme 12/04/2024 ou 01-01-2025 ou une mention du type 'publié le', 'daté du', 'en date du'."], "model": "text-embedding-ada-002"}

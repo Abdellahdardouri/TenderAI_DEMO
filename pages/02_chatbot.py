@@ -5,7 +5,7 @@ from llama_index.core import load_index_from_storage, StorageContext
 from llama_index.core.query_engine import RetrieverQueryEngine
 
 # Hardcoded API key (for testing phase only)
-OPENAI_KEY = "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"
+OPENAI_KEY = ""
 DEFAULT_MODEL = "gpt-4o"
 
 # Set keys
