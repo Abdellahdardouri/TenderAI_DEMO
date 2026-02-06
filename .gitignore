@@ -1,0 +1,16 @@
+.env
+*.pem
+*.key
+credentials*.json
+secrets/
+# Python
+__pycache__/
+*.pyc
+
+# Env / secrets
+.env
+*.env
+
+# OS / IDE
+.vscode/
+.DS_Store
