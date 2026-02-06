@@ -1,0 +1,182 @@
+/* Main Dashboard Styling */
+
+/* General page styling */
+.stApp {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Headers */
+h1 {
+    color: #2c3e50;
+    font-weight: 700;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #f0f2f6;
+}
+
+h2, h3 {
+    color: #34495e;
+    margin-top: 1rem;
+}
+
+/* Metrics styling */
+div[data-testid="stMetric"] {
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+    transition: transform 0.3s ease;
+}
+
+div[data-testid="stMetric"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+div[data-testid="stMetric"] > div:first-child {
+    font-weight: bold;
+    color: #2c3e50;
+}
+
+div[data-testid="stMetric"] > div:nth-child(2) {
+    font-size: 1.8rem;
+    font-weight: bold;
+    color: #3498db;
+}
+
+/* Sidebar styling */
+.css-1d391kg {
+    background-color: #f8f9fa;
+}
+
+.sidebar .sidebar-content {
+    background-color: #f8f9fa;
+}
+
+/* Filter sections in sidebar */
+.sidebar .stSelectbox label, .sidebar .stMultiSelect label {
+    color: #2c3e50;
+    font-weight: bold;
+    margin-top: 15px;
+}
+
+/* Tabs styling */
+button[role="tab"] {
+    background-color: transparent;
+    color: #7f8c8d;
+    font-weight: bold;
+    padding: 10px 15px;
+    border-radius: 5px 5px 0 0;
+    border: none;
+    margin-right: 5px;
+    transition: all 0.2s ease;
+}
+
+button[role="tab"][aria-selected="true"] {
+    background-color: #3498db;
+    color: white;
+}
+
+/* Cards and sections */
+div.stBlock {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+/* Expander styling */
+.streamlit-expanderHeader {
+    font-weight: bold;
+    color: #2c3e50;
+}
+
+/* Buttons */
+.stButton>button {
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 16px;
+    font-weight: bold;
+    transition: all 0.3s ease;
+}
+
+.stButton>button:hover {
+    background-color: #2980b9;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+}
+
+/* Table styling */
+.stDataFrame {
+    border: 1px solid #e0e0e0;
+    border-radius: 5px;
+}
+
+.stDataFrame th {
+    background-color: #f5f5f5;
+    color: #2c3e50;
+    font-weight: bold;
+}
+
+/* Special elements for the dashboard */
+.alert-box {
+    background-color: #f8d7da;
+    color: #721c24;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    border-left: 5px solid #f5c6cb;
+}
+
+.info-box {
+    background-color: #cce5ff;
+    color: #004085;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    border-left: 5px solid #b8daff;
+}
+
+.success-box {
+    background-color: #d4edda;
+    color: #155724;
+    padding: 15px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    border-left: 5px solid #c3e6cb;
+}
+
+/* For plotly charts */
+.js-plotly-plot {
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+/* For tables */
+.dataframe {
+    width: 100%;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+}
+
+.dataframe th {
+    background-color: #f5f5f5;
+    padding: 8px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+.dataframe td {
+    padding: 8px;
+    border: 1px solid #ddd;
+}
+
+.dataframe tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+.dataframe tr:hover {
+    background-color: #f1f1f1;
+}

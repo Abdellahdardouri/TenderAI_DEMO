@@ -1,0 +1,101 @@
+# Core Framework
+streamlit==1.29.0
+
+# Data Processing & Analysis
+pandas==2.1.4
+numpy==1.25.2
+
+# Database & API
+supabase==2.3.0
+python-dotenv==1.0.0
+
+# AI & Machine Learning
+openai==1.6.1
+transformers==4.36.2
+llama-index==0.9.30
+llama-parse==0.1.4
+
+# Data Visualization
+plotly==5.17.0
+
+# PDF Processing
+PyMuPDF==1.23.14
+
+# Image Processing
+Pillow==10.1.0
+
+# Async Processing
+nest-asyncio==1.5.8
+
+# Document Processing
+python-docx==1.1.0
+
+# MLflow Integration (if used)
+mlflow==2.9.2
+
+# HTTP Requests (often needed for APIs)
+requests==2.31.0
+
+# Type Hints (backport for older Python)
+typing-extensions==4.8.0
+
+# Additional utilities that might be needed
+python-dateutil==2.8.2
+pytz==2023.3
+six==1.16.0
+
+# For better error handling and logging
+colorlog==6.8.0
+
+# JSON handling improvements
+jsonschema==4.20.0
+
+# Excel file support (if needed)
+openpyxl==3.1.2
+xlsxwriter==3.1.9
+
+# CSV processing improvements
+chardet==5.2.0
+
+# For better async support
+aiohttp==3.9.1
+aiofiles==23.2.1
+
+# Security and hashing
+cryptography==41.0.8
+
+# Regular expressions (enhanced)
+regex==2023.10.3
+
+# Time zone handling
+tzdata==2023.3
+
+# Math and scientific computing
+scipy==1.11.4
+
+# For better data validation
+pydantic==2.5.2
+
+# Web scraping (if needed)
+beautifulsoup4==4.12.2
+
+# For better JSON handling
+orjson==3.9.10
+
+# Memory profiling (development)
+memory-profiler==0.61.0
+
+# Progress bars
+tqdm==4.66.1
+
+# Configuration management
+configparser==6.0.0
+
+# File system utilities
+pathlib2==2.3.7
+
+# Better subprocess handling
+subprocess32==3.5.4; python_version < '3.8'
+
+# Environment detection
+python-environ==0.4.54

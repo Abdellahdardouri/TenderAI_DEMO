@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/public tenders ai/tender_ai_prototype/mlruns/304497813209990894/bf24781d1fed492c85936437a6e860e1/artifacts
+end_time: 1747242068008
+entry_point_name: ''
+experiment_id: '304497813209990894'
+lifecycle_stage: active
+run_id: bf24781d1fed492c85936437a6e860e1
+run_name: stately-fish-497
+run_uuid: bf24781d1fed492c85936437a6e860e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747242065238
+status: 3
+tags: []
+user_id: hp

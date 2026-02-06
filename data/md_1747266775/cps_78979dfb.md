@@ -1,0 +1,27 @@
+Ne sont pas admises à participer à cet appel d'offres :
+
+- Les personnes en liquidation judiciaire
+- Les personnes en redressement judiciaire, sauf autorisation spéciale délivrée par l'autorité judiciaire compétente
+- Les personnes ayant fait l'objet d'une décision d'exclusion temporaire ou définitive prise conformément aux dispositions de l'article 152 du décret n° 2-22-431 précité
+- Les personnes représentant plus d'un concurrent dans un même marché, lorsqu'il s'agit d'un marché en lot unique
+- Les prestataires de services ayant contribué à la préparation du dossier de l'appel d'offre concerné
+
+# ARTICLE 9 Justification des capacités et des qualités
+
+1/ Conformément aux dispositions de l'article 28 du décret n° 2.22.431 précité, chaque concurrent est tenu de présenter un dossier administratif et un dossier technique.
+
+# A-Dossier administratif comprend
+
+Pour Chaque Concurrent, Au Moment De La Présentation Des Offres :
+
+1. a) La ou les pièces justifiant les pouvoirs conférés à la personne agissant au nom du concurrent : Ces pièces varient selon la forme juridique du concurrent
+- Si s'agit d'un auto-entrepreneur ou d'une personne physique agissant pour son propre compte, aucune pièce n'est exigée
+- Si s'agit d'un représentant du concurrent, celui-ci doit présenter, selon le cas :
+- Une copie certifiée conforme de la procuration légalisée, lorsqu'il agit au nom d'une personne physique
+- Un extrait des statuts de la société et/ou copie certifiée conforme à l'original du procès-verbal de l'organe compétent lui conférant le pouvoir d'agir au nom de cette société
+- L'acte par lequel la personne habilitée délègue son pouvoir à une tierce personne, le cas échéant :
+- Si s'agit d'une coopérative ou d'une union de coopératives, la ou les pièces justifiant les pouvoirs conférés à la personne agissant au nom de la Coopérative Ou De l'Union De Coopératives
+2. b) La déclaration sur l'honneur ; en un exemplaire unique, comportant les mentions prévues à l'article 29 du décret n° 2.22.431 précité
+3. c) L'original du récépissé du cautionnement provisoire ou "attestation de la délégation personnelle et solidaire en tenant lieu, le cas échéant ;
+
+Delegation Interministerielle Droits de l'Homme,

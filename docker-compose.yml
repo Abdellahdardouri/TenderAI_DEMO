@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  tenderai:
+    build: .
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/tenderai/data
+      - ./output:/tenderai/output
+      - ./mlruns:/tenderai/mlruns
+    restart: unless-stopped

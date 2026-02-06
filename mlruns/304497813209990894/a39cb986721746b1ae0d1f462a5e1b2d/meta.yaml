@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/public tenders ai/tender_ai_prototype/mlruns/304497813209990894/a39cb986721746b1ae0d1f462a5e1b2d/artifacts
+end_time: 1747247533661
+entry_point_name: ''
+experiment_id: '304497813209990894'
+lifecycle_stage: active
+run_id: a39cb986721746b1ae0d1f462a5e1b2d
+run_name: fearless-mole-148
+run_uuid: a39cb986721746b1ae0d1f462a5e1b2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1747244132913
+status: 3
+tags: []
+user_id: hp
